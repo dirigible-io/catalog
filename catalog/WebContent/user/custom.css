@@ -1,0 +1,54 @@
+html, body {
+    height:100%;
+}
+
+.selected-true {
+    background-color: #428bca;
+    color: white;
+}
+
+.row {
+    padding-top: 20px;
+}
+
+img.icon {
+    width: 200px;
+    height: 200px;
+}
+
+img.item {
+    border: #888 solid 5px;
+}
+
+body {
+  background: url(../img/background/image4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.carousel {
+    height:25%;
+}
+
+.item,
+.active,
+.carousel-inner {
+	height:100%;
+}
+
+.fill {
+	width:100%;
+	height:100%;
+	background-position: center;
+	background-size: cover;
+}
+
+.section {
+	margin: 50px 0;
+}
+
+footer {
+	margin: 50px 0;
+}

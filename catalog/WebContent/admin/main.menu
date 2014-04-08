@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Categories",
+        "link": "catalog_type.html",
+        "subMenu": []
+    },
+    {
+        "name": "Items",
+        "link": "catalog_item.html",
+        "subMenu": []
+    }
+]
